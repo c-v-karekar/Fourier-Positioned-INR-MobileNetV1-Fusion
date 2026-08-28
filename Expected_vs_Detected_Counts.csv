@@ -1,0 +1,19 @@
+Split,Class,Expected,Detected,Difference,Status
+train,Abdomen,587,587,0,PASS
+train,Brain,2505,2505,0,PASS
+train,Femur,861,861,0,PASS
+train,Maternal Cervix,1293,1293,0,PASS
+train,Thorax,1409,1409,0,PASS
+train,Other,3548,3548,0,PASS
+val,Abdomen,62,62,0,PASS
+val,Brain,315,272,-43,FAIL
+val,Femur,82,97,15,FAIL
+val,Maternal Cervix,168,165,-3,FAIL
+val,Thorax,155,154,-1,FAIL
+val,Other,353,312,-41,FAIL
+test,Abdomen,62,62,0,PASS
+test,Brain,272,315,43,FAIL
+test,Femur,97,82,-15,FAIL
+test,Maternal Cervix,165,168,3,FAIL
+test,Thorax,154,155,1,FAIL
+test,Other,312,353,41,FAIL

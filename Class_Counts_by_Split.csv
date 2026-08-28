@@ -1,0 +1,4 @@
+Split,Abdomen,Brain,Femur,Maternal Cervix,Thorax,Other,Total
+train,587,2505,861,1293,1409,3548,10203
+val,62,272,97,165,154,312,1062
+test,62,315,82,168,155,353,1135

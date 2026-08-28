@@ -1,0 +1,9 @@
+Verification Check,Result
+All split folders exist,PASS
+No unrecognized class folders,PASS
+All six classes exist in every split,PASS
+Expected image counts match,FAIL
+No corrupted or unreadable images,PASS
+No TensorFlow decoding failures,PASS
+No duplicate image content across splits,PASS
+No detected patient leakage,PASS
